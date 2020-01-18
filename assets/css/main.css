@@ -679,6 +679,14 @@ h2.resp-accordion:hover {
     color : #fff;
     text-transform:capitalize;
 }
+
+.portfolio .text-title2 {
+    display:block;
+    font-size:13px;
+    margin: 1px;
+    color : #fff;
+    text-transform:capitalize;
+}
 #fancybox-title {
     margin-left: 10px !important;
     width: 380px !important;
