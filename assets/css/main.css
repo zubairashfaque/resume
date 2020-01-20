@@ -2879,14 +2879,17 @@ div.ppt {
 }
 
 .div12 {
-  background-color: lightgrey;
-  display: table;
-  width: auto; /*matching the parents div width*/
-  margin: 1.3em auto 0;
-  padding: 15px 1.7em;
-  border-radius: 10px;
-  font-weight: 700;
-  text-transform: uppercase;
-  max-width: 25px;
-  min-width: 20px;
+    background-color: #3b5998;
+    display: table;
+    width: auto;
+    margin: 1.3em auto 0;
+    padding: 15px 1.7em;
+    border-radius: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    max-width: 25px;
+    min-width: 20px;
+    font-size: 11px;
+    color: #fff;
+    text-transform: capitalize;	
 }
