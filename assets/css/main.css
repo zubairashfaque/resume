@@ -2887,11 +2887,13 @@ div.ppt {
     border-radius: 10px;
     font-weight: 700;
     text-transform: uppercase;
-    max-width: 25px;
+    max-width: 300px;
     min-width: 20px;
     font-size: 11px;
     color: #fff;
     text-transform: capitalize;	
     border-right:1px;	
-    display: inline-block;	    
+    display: inline-block; 
+    padding-left: 10px;
+    padding-right: 10px;
 }
