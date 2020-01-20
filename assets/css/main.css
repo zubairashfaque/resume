@@ -2878,19 +2878,4 @@ div.ppt {
     display: none !important;
 }
 
-.div12 {
-    background-color: #3b5998;
-    display: table;
-    width: auto;
-    margin: 1.3em auto 0;
-    padding: 2px 2em;
-    border-radius: 10px;
-    font-weight: 700;
-    text-transform: uppercase;
-    max-width: 25px;
-    min-width: 20px;
-    font-size: 11px;
-    color: #fff;
-    text-transform: capitalize;	
-    border-right:1px	
-}
+
