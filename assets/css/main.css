@@ -2892,5 +2892,6 @@ div.ppt {
     font-size: 11px;
     color: #fff;
     text-transform: capitalize;	
-    border-right:1px	
+    border-right:1px;	
+    resize: horizontal;	    
 }
